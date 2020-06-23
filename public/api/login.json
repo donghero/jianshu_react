@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "password": "number_one"
+    },
+    {
+      "id": 2,
+      "password": "number_two"
+    }
+  ]
+}

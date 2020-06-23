@@ -1,0 +1,37 @@
+{
+  "id": "1874231",
+  "name": "Icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "Icon of jianshu project",
+  "glyphs": [
+    {
+      "icon_id": "1423031",
+      "name": "Spinner",
+      "font_class": "Spinner",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "755541",
+      "name": "放大镜",
+      "font_class": "search",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "10550058",
+      "name": "羽毛",
+      "font_class": "yumao",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    }
+  ]
+}
